@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://clean-puce-three.vercel.app/sitemap.xml
